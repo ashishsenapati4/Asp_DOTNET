@@ -1,0 +1,32 @@
+﻿
+@model BindDDLWithDb.Models.User;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+
+
+@{
+    if (ViewBag.selectedValue != null)
+    {
+        <h4>@ViewBag.selectedValue</h4>
+    }
+}
+
+
+@* @Html.DropDownList("User Id", Model, new{@class="form-control"}) *@
+
+<form asp-action="Index" method="post">
+<select asp-for="Id" class="form-control" asp-items="Model.userListItem"></select>
+<button class="btn btn-primary" type="submit">Submit</button>
+</form>
