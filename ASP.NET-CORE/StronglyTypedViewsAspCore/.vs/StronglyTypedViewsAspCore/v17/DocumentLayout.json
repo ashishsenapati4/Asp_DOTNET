@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|c:\\projects\\dot net\\stronglytypedviewsaspcore\\stronglytypedviewsaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|solutionrelative:stronglytypedviewsaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|c:\\projects\\dot net\\stronglytypedviewsaspcore\\stronglytypedviewsaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|solutionrelative:stronglytypedviewsaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|c:\\projects\\dot net\\stronglytypedviewsaspcore\\stronglytypedviewsaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|solutionrelative:stronglytypedviewsaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|c:\\projects\\dot net\\stronglytypedviewsaspcore\\stronglytypedviewsaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|solutionrelative:stronglytypedviewsaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|c:\\projects\\dot net\\stronglytypedviewsaspcore\\stronglytypedviewsaspcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|solutionrelative:stronglytypedviewsaspcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|c:\\projects\\dot net\\stronglytypedviewsaspcore\\stronglytypedviewsaspcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50828B51-A7FC-4A65-A4FB-3FFB53C0549D}|StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore.csproj|solutionrelative:stronglytypedviewsaspcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedViewsAspCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StronglyTypedViewsAspCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T15:51:37.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedViewsAspCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StronglyTypedViewsAspCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T15:51:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedViewsAspCore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StronglyTypedViewsAspCore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T15:51:30.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedViewsAspCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StronglyTypedViewsAspCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T16:54:30.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StronglyTypedViewsAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StronglyTypedViewsAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:53:18.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "StronglyTypedViewsAspCore\\Models\\Employee.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\StronglyTypedViewsAspCore\\StronglyTypedViewsAspCore\\Models\\Employee.cs",
+              "RelativeToolTip": "StronglyTypedViewsAspCore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:52:35.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
